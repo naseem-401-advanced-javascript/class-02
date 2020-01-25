@@ -8,9 +8,7 @@
   },
   "scripts": {
     "lint": "eslint **/*.js",
-    "test": "jest --coverage --verbose",
-    "watch": "jest --coverage --verbose --watch",
-    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+    "test": "jest --coverage --verbose"
   },
   "repository": {
     "type": "git",
